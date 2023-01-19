@@ -12,7 +12,7 @@ var b =['raju','ravi','amit'];
 
 app.get('/',(req,res)=>{
     console.log('Home');
-    res.send('welcome to home');
+    res.send('welcome to home newg');
     // res.render("home",{Name:a})
 }) 
 
